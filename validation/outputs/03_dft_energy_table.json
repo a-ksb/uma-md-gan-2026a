@@ -1,0 +1,11 @@
+{
+  "energy_key": "E1",
+  "zero_mode": "t0",
+  "energy_definition": "potential energy",
+  "hartree_to_eV": 27.211386245988,
+  "zero_reference_eV": -188630.7847984813,
+  "zero_reference_eV_per_atom": -1025.1673086873984,
+  "natoms": 184,
+  "energy_unit": "eV/atom",
+  "row_count": 751
+}

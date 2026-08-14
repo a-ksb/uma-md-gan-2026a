@@ -1,0 +1,21 @@
+﻿{
+  "base_condition_file": "data/GaN(4x4)_9H_GaNH_configB2(1).castep",
+  "trajectory_segments": [
+    "data/GaN(4x4)_9H_GaNH_configB2.md",
+    "data/GaN(4x4)_9H_GaNH_configB2_2.md",
+    "data/GaN(4x4)_9H_GaNH_configB2_3.md",
+    "data/GaN(4x4)_9H_GaNH_configB2_4.md",
+    "data/GaN(4x4)_9H_GaNH_configB2_5.md",
+    "data/GaN(4x4)_9H_GaNH_configB2_6.md",
+    "data/GaN(4x4)_9H_GaNH_configB2_7.md",
+    "data/GaN(4x4)_9H_GaNH_configB2_8.md",
+    "data/GaN(4x4)_9H_GaNH_configB2_9.md",
+    "data/GaN(4x4)_9H_GaNH_configB2_10.md",
+    "data/GaN(4x4)_9H_GaNH_configB2_11.md",
+    "data/GaN(4x4)_9H_GaNH_configB2_12.md",
+    "data/GaN(4x4)_9H_GaNH_configB2_13.md",
+    "data/GaN(4x4)_9H_GaNH_configB2_14.md",
+    "data/GaN(4x4)_9H_GaNH_configB2_15.md"
+  ],
+  "boundary_duplicate_tolerance_angstrom": 1e-06
+}

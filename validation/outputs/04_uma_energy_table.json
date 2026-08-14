@@ -1,0 +1,7 @@
+{
+  "model_path": "C:\\Users\\Takae\\Documents\\GitHub\\Develop-Apps\\UMA_Test\\UMA\\uma-m-1p1.pt",
+  "task_name": "oc20",
+  "device": "cuda",
+  "zero_reference_eV": -984.7216956190911,
+  "row_count": 751
+}

@@ -1,0 +1,17 @@
+{
+  "definitions": {
+    "rho": "Pearson correlation coefficient between ΔE_DFT and ΔE_UMA (eV/atom)",
+    "R2": "1 - SS_res / SS_tot for linear fit ΔE_UMA = slope * ΔE_DFT + intercept",
+    "RMSE_eV": "sqrt(mean((ΔE_UMA - ΔE_DFT)^2)) in eV/atom",
+    "slope": "linear-fit slope for ΔE_UMA vs ΔE_DFT (eV/atom)",
+    "residual": "ΔE_UMA - ΔE_DFT (eV/atom)"
+  },
+  "n": 751,
+  "rho": 0.9724106974560176,
+  "R2": 0.9455825645268982,
+  "RMSE_eV": 0.00845734387996519,
+  "slope": 1.0006568608269717,
+  "intercept": 0.006792259729282393,
+  "residual_mean_eV": 0.00689087194377666,
+  "residual_max_abs_eV": 0.016605033151128268
+}
